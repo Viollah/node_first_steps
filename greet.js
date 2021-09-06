@@ -1,5 +1,11 @@
-module.exports= function(Bob){
-  return ('Hello, ' + Bob);
+module.exports= function(name){
+  return ('Hello, ' + name);
 }
-// var msg = greet('Bob');
-// console.log(msg);
+// function greet(name){
+// if(!name){
+//   return "hello";
+// }
+// return "hello, " +name;
+// }
+//  var msg = greet('Bob');
+//  console.log(msg);

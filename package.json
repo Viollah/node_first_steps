@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viollah/node_first_steps.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viollah/node_first_steps/issues"
+  },
+  "homepage": "https://github.com/Viollah/node_first_steps#readme",
   "dependencies": {
     "chalk": "^4.1.2"
   }
